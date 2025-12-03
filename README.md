@@ -2,7 +2,7 @@
 Actively Interpretable Pathology Foundation Model: Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement
 
 ## 🧔: Authors [*Corresponding author]
-Pan Huang, Chentao Li, Bo Liang, Hong Yan, Yongfei Wang, Zhen Gu, Guoqing Fu, Mingrui Ma, Wen Liu, Xiuwu Bian*, Xin Luo*, Yifang Ping*, Jing Qin*
+Pan Huang, Chentao Li, Bo Liang, Hong Yan, Yongfei Wang, Zhen Gu, Guoqing Fu, Xiuwu Bian*, Xin Luo*, Yifang Ping*, Jing Qin*
 
 ## :fire: News
 
