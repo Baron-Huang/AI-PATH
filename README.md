@@ -27,9 +27,6 @@ Here's an overview of our **Actively Interpretable Pathology Foundation Model: I
 - [ ] Datasets
 
 
-
-
-
 ## 🛠️ Getting Started
 
 To get started with **AI-Path**, follow the installation instructions below.
