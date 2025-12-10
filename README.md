@@ -2,7 +2,7 @@
 Actively Interpretable Pathology Foundation Model: Instance-cluster Multi-global Effects driven-Invariance Semantic Graph-regularized Tensor Clustering
 
 ## 🧔: Authors [*Corresponding author]
-Pan Huang, Chentao Li, Hong Yan, Mingrui Ma, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
+Pan Huang, Chentao Li, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
 
 ## :fire: News
 
