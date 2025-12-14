@@ -2,7 +2,7 @@
 Actively Explainable Pathology Universal-semantics Model: Instance-cluster Multi-global Effects driven-Deep Graph-regularized Tensor Clustering
 
 ## 🧔: Authors [*Corresponding author]
-Pan Huang, Chi Zhang, Chentao Li, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
+Pan Huang, Chentao Li, Chi Zhang, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
 
 ## :fire: News
 
